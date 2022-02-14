@@ -1,4 +1,4 @@
-# MyWork
+# PokemonUniteData
 
 This project aims to scrap pokemon unite data from the pokemon unite official website using scrapy tool.
 Here the crawler crawls first to the initial website then gets hyperlink data of all the pokemons releases till date.
